@@ -44,6 +44,9 @@ void freeAirline(Airline* pAirline) {
 }
 
 int addFlight(const AirportManager* pAirportManager, Airline* pAirline) {
+    int a = update_Fleet(pAirportManager, pAirline);
+    if(a==0)
+        return 0;
     Flight* pFlight = (Flight*) malloc(sizeof(Flight));
     if (!pFlight) {
         printf(ALLOCATE_ERR);

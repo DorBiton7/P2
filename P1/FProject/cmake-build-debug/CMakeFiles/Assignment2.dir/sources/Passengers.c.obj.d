@@ -1,6 +1,6 @@
 CMakeFiles/Assignment2.dir/sources/Passengers.c.obj: \
- C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\Passengers.c \
- C:/Users/amitg/GRepos/Last/P1-main/P1-main/FProject/headers/Passengers.h \
+ C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\Passengers.c \
+ C:/Users/dorbi/Desktop/sdfsdfsdfdfssdf/P2/P1/FProject/headers/Passengers.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
@@ -24,6 +24,6 @@ CMakeFiles/Assignment2.dir/sources/Passengers.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/x86_64-w64-mingw32/include/errno.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/x86_64-w64-mingw32/include/string.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
- C:/Users/amitg/GRepos/Last/P1-main/P1-main/FProject/headers/functions.h \
- C:/Users/amitg/GRepos/Last/P1-main/P1-main/FProject/headers/def.h \
+ C:/Users/dorbi/Desktop/sdfsdfsdfdfssdf/P2/P1/FProject/headers/functions.h \
+ C:/Users/dorbi/Desktop/sdfsdfsdfdfssdf/P2/P1/FProject/headers/def.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/x86_64-w64-mingw32/include/ctype.h

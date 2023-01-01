@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/amitg/GRepos/Last/P1-main/P1-main/FProject
+# Install script for directory: C:/Users/dorbi/Desktop/sdfsdfsdfdfssdf/P2/P1/FProject
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/amitg/GRepos/Last/P1-main/P1-main/FProject/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/dorbi/Desktop/sdfsdfsdfdfssdf/P2/P1/FProject/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

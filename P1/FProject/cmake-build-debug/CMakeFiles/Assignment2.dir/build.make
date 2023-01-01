@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject
+CMAKE_SOURCE_DIR = C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Assignment2.dir/depend.make
@@ -72,121 +72,121 @@ CMakeFiles/Assignment2.dir/sources/airline.c.obj: CMakeFiles/Assignment2.dir/fla
 CMakeFiles/Assignment2.dir/sources/airline.c.obj: CMakeFiles/Assignment2.dir/includes_C.rsp
 CMakeFiles/Assignment2.dir/sources/airline.c.obj: ../sources/airline.c
 CMakeFiles/Assignment2.dir/sources/airline.c.obj: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Assignment2.dir/sources/airline.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/airline.c.obj -MF CMakeFiles\Assignment2.dir\sources\airline.c.obj.d -o CMakeFiles\Assignment2.dir\sources\airline.c.obj -c C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airline.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Assignment2.dir/sources/airline.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/airline.c.obj -MF CMakeFiles\Assignment2.dir\sources\airline.c.obj.d -o CMakeFiles\Assignment2.dir\sources\airline.c.obj -c C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airline.c
 
 CMakeFiles/Assignment2.dir/sources/airline.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment2.dir/sources/airline.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airline.c > CMakeFiles\Assignment2.dir\sources\airline.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airline.c > CMakeFiles\Assignment2.dir\sources\airline.c.i
 
 CMakeFiles/Assignment2.dir/sources/airline.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment2.dir/sources/airline.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airline.c -o CMakeFiles\Assignment2.dir\sources\airline.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airline.c -o CMakeFiles\Assignment2.dir\sources\airline.c.s
 
 CMakeFiles/Assignment2.dir/sources/airport.c.obj: CMakeFiles/Assignment2.dir/flags.make
 CMakeFiles/Assignment2.dir/sources/airport.c.obj: CMakeFiles/Assignment2.dir/includes_C.rsp
 CMakeFiles/Assignment2.dir/sources/airport.c.obj: ../sources/airport.c
 CMakeFiles/Assignment2.dir/sources/airport.c.obj: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Assignment2.dir/sources/airport.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/airport.c.obj -MF CMakeFiles\Assignment2.dir\sources\airport.c.obj.d -o CMakeFiles\Assignment2.dir\sources\airport.c.obj -c C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airport.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Assignment2.dir/sources/airport.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/airport.c.obj -MF CMakeFiles\Assignment2.dir\sources\airport.c.obj.d -o CMakeFiles\Assignment2.dir\sources\airport.c.obj -c C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airport.c
 
 CMakeFiles/Assignment2.dir/sources/airport.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment2.dir/sources/airport.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airport.c > CMakeFiles\Assignment2.dir\sources\airport.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airport.c > CMakeFiles\Assignment2.dir\sources\airport.c.i
 
 CMakeFiles/Assignment2.dir/sources/airport.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment2.dir/sources/airport.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airport.c -o CMakeFiles\Assignment2.dir\sources\airport.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airport.c -o CMakeFiles\Assignment2.dir\sources\airport.c.s
 
 CMakeFiles/Assignment2.dir/sources/airport_manager.c.obj: CMakeFiles/Assignment2.dir/flags.make
 CMakeFiles/Assignment2.dir/sources/airport_manager.c.obj: CMakeFiles/Assignment2.dir/includes_C.rsp
 CMakeFiles/Assignment2.dir/sources/airport_manager.c.obj: ../sources/airport_manager.c
 CMakeFiles/Assignment2.dir/sources/airport_manager.c.obj: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Assignment2.dir/sources/airport_manager.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/airport_manager.c.obj -MF CMakeFiles\Assignment2.dir\sources\airport_manager.c.obj.d -o CMakeFiles\Assignment2.dir\sources\airport_manager.c.obj -c C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airport_manager.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Assignment2.dir/sources/airport_manager.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/airport_manager.c.obj -MF CMakeFiles\Assignment2.dir\sources\airport_manager.c.obj.d -o CMakeFiles\Assignment2.dir\sources\airport_manager.c.obj -c C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airport_manager.c
 
 CMakeFiles/Assignment2.dir/sources/airport_manager.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment2.dir/sources/airport_manager.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airport_manager.c > CMakeFiles\Assignment2.dir\sources\airport_manager.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airport_manager.c > CMakeFiles\Assignment2.dir\sources\airport_manager.c.i
 
 CMakeFiles/Assignment2.dir/sources/airport_manager.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment2.dir/sources/airport_manager.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\airport_manager.c -o CMakeFiles\Assignment2.dir\sources\airport_manager.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\airport_manager.c -o CMakeFiles\Assignment2.dir\sources\airport_manager.c.s
 
 CMakeFiles/Assignment2.dir/sources/date.c.obj: CMakeFiles/Assignment2.dir/flags.make
 CMakeFiles/Assignment2.dir/sources/date.c.obj: CMakeFiles/Assignment2.dir/includes_C.rsp
 CMakeFiles/Assignment2.dir/sources/date.c.obj: ../sources/date.c
 CMakeFiles/Assignment2.dir/sources/date.c.obj: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Assignment2.dir/sources/date.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/date.c.obj -MF CMakeFiles\Assignment2.dir\sources\date.c.obj.d -o CMakeFiles\Assignment2.dir\sources\date.c.obj -c C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\date.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Assignment2.dir/sources/date.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/date.c.obj -MF CMakeFiles\Assignment2.dir\sources\date.c.obj.d -o CMakeFiles\Assignment2.dir\sources\date.c.obj -c C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\date.c
 
 CMakeFiles/Assignment2.dir/sources/date.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment2.dir/sources/date.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\date.c > CMakeFiles\Assignment2.dir\sources\date.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\date.c > CMakeFiles\Assignment2.dir\sources\date.c.i
 
 CMakeFiles/Assignment2.dir/sources/date.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment2.dir/sources/date.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\date.c -o CMakeFiles\Assignment2.dir\sources\date.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\date.c -o CMakeFiles\Assignment2.dir\sources\date.c.s
 
 CMakeFiles/Assignment2.dir/sources/flight.c.obj: CMakeFiles/Assignment2.dir/flags.make
 CMakeFiles/Assignment2.dir/sources/flight.c.obj: CMakeFiles/Assignment2.dir/includes_C.rsp
 CMakeFiles/Assignment2.dir/sources/flight.c.obj: ../sources/flight.c
 CMakeFiles/Assignment2.dir/sources/flight.c.obj: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Assignment2.dir/sources/flight.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/flight.c.obj -MF CMakeFiles\Assignment2.dir\sources\flight.c.obj.d -o CMakeFiles\Assignment2.dir\sources\flight.c.obj -c C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\flight.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Assignment2.dir/sources/flight.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/flight.c.obj -MF CMakeFiles\Assignment2.dir\sources\flight.c.obj.d -o CMakeFiles\Assignment2.dir\sources\flight.c.obj -c C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\flight.c
 
 CMakeFiles/Assignment2.dir/sources/flight.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment2.dir/sources/flight.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\flight.c > CMakeFiles\Assignment2.dir\sources\flight.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\flight.c > CMakeFiles\Assignment2.dir\sources\flight.c.i
 
 CMakeFiles/Assignment2.dir/sources/flight.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment2.dir/sources/flight.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\flight.c -o CMakeFiles\Assignment2.dir\sources\flight.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\flight.c -o CMakeFiles\Assignment2.dir\sources\flight.c.s
 
 CMakeFiles/Assignment2.dir/sources/functions.c.obj: CMakeFiles/Assignment2.dir/flags.make
 CMakeFiles/Assignment2.dir/sources/functions.c.obj: CMakeFiles/Assignment2.dir/includes_C.rsp
 CMakeFiles/Assignment2.dir/sources/functions.c.obj: ../sources/functions.c
 CMakeFiles/Assignment2.dir/sources/functions.c.obj: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Assignment2.dir/sources/functions.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/functions.c.obj -MF CMakeFiles\Assignment2.dir\sources\functions.c.obj.d -o CMakeFiles\Assignment2.dir\sources\functions.c.obj -c C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\functions.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Assignment2.dir/sources/functions.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/functions.c.obj -MF CMakeFiles\Assignment2.dir\sources\functions.c.obj.d -o CMakeFiles\Assignment2.dir\sources\functions.c.obj -c C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\functions.c
 
 CMakeFiles/Assignment2.dir/sources/functions.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment2.dir/sources/functions.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\functions.c > CMakeFiles\Assignment2.dir\sources\functions.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\functions.c > CMakeFiles\Assignment2.dir\sources\functions.c.i
 
 CMakeFiles/Assignment2.dir/sources/functions.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment2.dir/sources/functions.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\functions.c -o CMakeFiles\Assignment2.dir\sources\functions.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\functions.c -o CMakeFiles\Assignment2.dir\sources\functions.c.s
 
 CMakeFiles/Assignment2.dir/main.c.obj: CMakeFiles/Assignment2.dir/flags.make
 CMakeFiles/Assignment2.dir/main.c.obj: CMakeFiles/Assignment2.dir/includes_C.rsp
 CMakeFiles/Assignment2.dir/main.c.obj: ../main.c
 CMakeFiles/Assignment2.dir/main.c.obj: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Assignment2.dir/main.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/main.c.obj -MF CMakeFiles\Assignment2.dir\main.c.obj.d -o CMakeFiles\Assignment2.dir\main.c.obj -c C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Assignment2.dir/main.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/main.c.obj -MF CMakeFiles\Assignment2.dir\main.c.obj.d -o CMakeFiles\Assignment2.dir\main.c.obj -c C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\main.c
 
 CMakeFiles/Assignment2.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment2.dir/main.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\main.c > CMakeFiles\Assignment2.dir\main.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\main.c > CMakeFiles\Assignment2.dir\main.c.i
 
 CMakeFiles/Assignment2.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment2.dir/main.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\main.c -o CMakeFiles\Assignment2.dir\main.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\main.c -o CMakeFiles\Assignment2.dir\main.c.s
 
 CMakeFiles/Assignment2.dir/sources/Passengers.c.obj: CMakeFiles/Assignment2.dir/flags.make
 CMakeFiles/Assignment2.dir/sources/Passengers.c.obj: CMakeFiles/Assignment2.dir/includes_C.rsp
 CMakeFiles/Assignment2.dir/sources/Passengers.c.obj: ../sources/Passengers.c
 CMakeFiles/Assignment2.dir/sources/Passengers.c.obj: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Assignment2.dir/sources/Passengers.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/Passengers.c.obj -MF CMakeFiles\Assignment2.dir\sources\Passengers.c.obj.d -o CMakeFiles\Assignment2.dir\sources\Passengers.c.obj -c C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\Passengers.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Assignment2.dir/sources/Passengers.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/sources/Passengers.c.obj -MF CMakeFiles\Assignment2.dir\sources\Passengers.c.obj.d -o CMakeFiles\Assignment2.dir\sources\Passengers.c.obj -c C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\Passengers.c
 
 CMakeFiles/Assignment2.dir/sources/Passengers.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment2.dir/sources/Passengers.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\Passengers.c > CMakeFiles\Assignment2.dir\sources\Passengers.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\Passengers.c > CMakeFiles\Assignment2.dir\sources\Passengers.c.i
 
 CMakeFiles/Assignment2.dir/sources/Passengers.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment2.dir/sources/Passengers.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\sources\Passengers.c -o CMakeFiles\Assignment2.dir\sources\Passengers.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\sources\Passengers.c -o CMakeFiles\Assignment2.dir\sources\Passengers.c.s
 
 # Object files for target Assignment2
 Assignment2_OBJECTS = \
@@ -214,7 +214,7 @@ Assignment2.exe: CMakeFiles/Assignment2.dir/build.make
 Assignment2.exe: CMakeFiles/Assignment2.dir/linklibs.rsp
 Assignment2.exe: CMakeFiles/Assignment2.dir/objects1.rsp
 Assignment2.exe: CMakeFiles/Assignment2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable Assignment2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable Assignment2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Assignment2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -226,6 +226,6 @@ CMakeFiles/Assignment2.dir/clean:
 .PHONY : CMakeFiles/Assignment2.dir/clean
 
 CMakeFiles/Assignment2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug C:\Users\amitg\GRepos\Last\P1-main\P1-main\FProject\cmake-build-debug\CMakeFiles\Assignment2.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug C:\Users\dorbi\Desktop\sdfsdfsdfdfssdf\P2\P1\FProject\cmake-build-debug\CMakeFiles\Assignment2.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Assignment2.dir/depend
 
